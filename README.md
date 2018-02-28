@@ -5,7 +5,7 @@
 # Webpage Screenshot (Desktop & Mobile)
 
 (Desktop View)
-<img src="https://github.com/raylinhonghu/Parallax-My-Page/blob/master/desktop.png" width="300px">
+<img src="https://github.com/raylinhonghu/Parallax-My-Page/blob/master/desktop.png" width="1200px">
 (IphoneX View)
 <img src="https://github.com/raylinhonghu/Parallax-My-Page/blob/master/iphoneX.png" width="300px">
 
