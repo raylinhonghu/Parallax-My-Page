@@ -6,7 +6,7 @@
 
 (Desktop View)
 <img src="https://github.com/raylinhonghu/Parallax-My-Page/blob/master/desktop.png" width="1200px">
-(IphoneX View)
+(IphoneX View)<br>
 <img src="https://github.com/raylinhonghu/Parallax-My-Page/blob/master/iphoneX.png" width="300px">
 
 
